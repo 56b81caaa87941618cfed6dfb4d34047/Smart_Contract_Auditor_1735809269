@@ -212,5 +212,20 @@
         "metadata": {
             "component_id": "Hero1735809273"
         }
+    },
+    {
+        "id": "4c2d28bc-b7b6-4cde-b652-f6d08587d6f0",
+        "timestamp": "2025-01-02T09:18:39.807663Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_mUGs4whr2PB1S7XOSbYYYBrT",
+            "function": {
+                "arguments": "{\"contract_id\":\"MintingContract\",\"audit_focus\":null,\"acknowledgement_message\":\"Starting the security audit of your minting smart contract...\"}",
+                "name": "AuditSmartContract"
+            },
+            "type": "function"
+        }
     }
 ]

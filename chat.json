@@ -133,5 +133,15 @@
         "source": "smart_contract_assistant",
         "content": "The security audit of your StakingContract has been completed. There are a few high and medium severity issues that need to be addressed:\n\n1. Potential for integer overflow in reward calculations.\n2. Lack of a pause mechanism.\n3. Hardcoded staking token address and missing input validation.\n\nWould you like me to go ahead and fix these issues in the contract now?",
         "metadata": {}
+    },
+    {
+        "id": "16807224-caac-4ebb-866f-0127b516d74d",
+        "timestamp": "2025-01-02T09:17:05.722434Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "expand, what are this errors?",
+        "metadata": {
+            "component_id": "Hero1735809273"
+        }
     }
 ]

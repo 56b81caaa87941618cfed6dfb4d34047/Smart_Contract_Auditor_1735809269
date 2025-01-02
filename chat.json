@@ -202,5 +202,15 @@
         "source": "smart_contract_assistant",
         "content": "I have generated the MintingContract for minting tokens. Would you like to proceed with deploying it?",
         "metadata": {}
+    },
+    {
+        "id": "e66fe224-94c4-437b-89c7-394ccf0f009d",
+        "timestamp": "2025-01-02T09:18:36.832809Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "audit it first",
+        "metadata": {
+            "component_id": "Hero1735809273"
+        }
     }
 ]

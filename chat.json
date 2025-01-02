@@ -74,5 +74,13 @@
         "metadata": {
             "tool_call_id": "call_VBwueoJboKan27oO5dl8JCO4"
         }
+    },
+    {
+        "id": "015f5338-0890-421d-b96f-c8d54d32ca5a",
+        "timestamp": "2025-01-02T09:15:39.973830Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "I have generated the StakingContract for staking tokens. Would you like to proceed with deploying it?",
+        "metadata": {}
     }
 ]

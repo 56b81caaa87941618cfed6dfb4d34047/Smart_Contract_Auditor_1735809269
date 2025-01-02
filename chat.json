@@ -82,5 +82,15 @@
         "source": "smart_contract_assistant",
         "content": "I have generated the StakingContract for staking tokens. Would you like to proceed with deploying it?",
         "metadata": {}
+    },
+    {
+        "id": "3af1a805-7bac-4059-bad0-6ec1995c0dc1",
+        "timestamp": "2025-01-02T09:15:57.587368Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "audit it first",
+        "metadata": {
+            "component_id": "Hero1735809273"
+        }
     }
 ]

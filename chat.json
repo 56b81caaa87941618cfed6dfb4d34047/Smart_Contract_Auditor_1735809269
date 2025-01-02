@@ -92,5 +92,20 @@
         "metadata": {
             "component_id": "Hero1735809273"
         }
+    },
+    {
+        "id": "b03bc296-18bf-4396-9141-01b5dbac50ae",
+        "timestamp": "2025-01-02T09:15:59.644475Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_1HKGMUz2UKbLLJhI2xItUSsK",
+            "function": {
+                "arguments": "{\"contract_id\":\"StakingContract\",\"audit_focus\":null,\"acknowledgement_message\":\"Starting the security audit of your smart contract...\"}",
+                "name": "AuditSmartContract"
+            },
+            "type": "function"
+        }
     }
 ]
